@@ -1,2 +1,3 @@
-# Mining and Analyzing data in LinkedIn
-# Skills used: Supervised Learning, EDA, API
+# Mining and Analyzing data from LinkedIn
+
+Skills used: Supervised Learning, EDA, API
